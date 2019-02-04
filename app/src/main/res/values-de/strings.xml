@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="str_photo1_button">Aufnahme 1</string>
+    <string name="str_photo2_button">Aufnahme 2</string>
+</resources>
